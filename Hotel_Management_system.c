@@ -20,7 +20,6 @@ struct customer_info
     char members_names[100];
 };
 
-
 struct request_user
 {
     char details[100];
